@@ -60,7 +60,6 @@ canvas {
   .grid-2 { float: left;
     width: 96.969696969697%;
     margin: 0 1.515151515152%;
-	min-width: 220px;
 	}
 
 
@@ -77,7 +76,7 @@ canvas {
 
   .grid-1     { width: 13.636363636364%; }
   .grid-2     { width: 30.30303030303%;
-			  min-height:220px;}
+			  }
   .grid-3,
   .grid-half  { width: 46.969696969697%; }
   .grid-4     { width: 63.636363636364%; }

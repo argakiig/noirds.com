@@ -2,7 +2,13 @@ noirshares.io
 =============
 
 NoirShares Website
+Development under progress
 
+Change log
 
-
-Development under porgess
+1.1
+===
+- Links updates
+- Officers update
+- Downlaod links pointed to local server
+- Added reddit icons etc...
